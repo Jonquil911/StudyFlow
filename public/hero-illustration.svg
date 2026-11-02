@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="470" viewBox="0 0 620 470" role="img" aria-labelledby="title">
+  <title id="title">Study planner illustration</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#DDE9FF"/><stop offset="1" stop-color="#EFF6FF"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#18315C" flood-opacity=".12"/></filter>
+  </defs>
+  <rect x="35" y="55" width="550" height="370" rx="42" fill="url(#g)"/>
+  <circle cx="510" cy="105" r="42" fill="#B9D0FF" opacity=".7"/>
+  <circle cx="105" cy="380" r="27" fill="#B9D0FF" opacity=".65"/>
+  <g filter="url(#s)">
+    <rect x="137" y="85" width="340" height="300" rx="20" fill="white"/>
+    <rect x="137" y="85" width="340" height="60" rx="20" fill="#233F80"/>
+    <rect x="137" y="125" width="340" height="20" fill="#233F80"/>
+    <text x="161" y="123" fill="white" font-size="22" font-family="Arial,sans-serif" font-weight="700">My study plan</text>
+    <rect x="165" y="170" width="30" height="30" rx="8" fill="#E2EEFF" stroke="#8FB4EE" stroke-width="2"/>
+    <path d="M171 184l7 7 13-15" fill="none" stroke="#2E71D7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="210" y="176" width="180" height="9" rx="4.5" fill="#5372A7"/><rect x="210" y="192" width="110" height="6" rx="3" fill="#CBD5E5"/>
+    <rect x="165" y="222" width="30" height="30" rx="8" fill="#E2EEFF" stroke="#8FB4EE" stroke-width="2"/>
+    <path d="M171 236l7 7 13-15" fill="none" stroke="#2E71D7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="210" y="228" width="154" height="9" rx="4.5" fill="#5372A7"/><rect x="210" y="244" width="130" height="6" rx="3" fill="#CBD5E5"/>
+    <rect x="165" y="274" width="30" height="30" rx="8" fill="white" stroke="#AABEDB" stroke-width="2"/>
+    <rect x="210" y="280" width="195" height="9" rx="4.5" fill="#5372A7"/><rect x="210" y="296" width="95" height="6" rx="3" fill="#CBD5E5"/>
+    <rect x="165" y="326" width="30" height="30" rx="8" fill="white" stroke="#AABEDB" stroke-width="2"/>
+    <rect x="210" y="332" width="169" height="9" rx="4.5" fill="#5372A7"/><rect x="210" y="348" width="115" height="6" rx="3" fill="#CBD5E5"/>
+  </g>
+  <g filter="url(#s)"><rect x="412" y="293" width="125" height="100" rx="15" fill="#FFFFFF"/><text x="429" y="318" font-size="12" font-family="Arial,sans-serif" fill="#4F6893">Progress</text><rect x="431" y="358" width="16" height="23" rx="5" fill="#8FC1FA"/><rect x="454" y="343" width="16" height="38" rx="5" fill="#65A0F2"/><rect x="477" y="326" width="16" height="55" rx="5" fill="#3276DA"/><rect x="500" y="338" width="16" height="43" rx="5" fill="#65A0F2"/></g>
+  <g filter="url(#s)"><rect x="66" y="190" width="98" height="91" rx="16" fill="#FFFFFF"/><circle cx="115" cy="224" r="18" fill="#D3F4E4"/><path d="M106 225l7 7 13-15" fill="none" stroke="#28A470" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="90" y="260" font-family="Arial,sans-serif" font-size="12" fill="#446389">On track</text></g>
+</svg>
